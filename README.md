@@ -27,7 +27,7 @@ Check localhost:8080 to ensure it's running.
 docker build -t treeder/tiny-node:latest .
 ```
 
-## 4
+## 4. Test the image
 
 Now that we built the image, let's run it.
 
