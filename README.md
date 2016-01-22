@@ -16,7 +16,7 @@ docker run --rm -v "$PWD":/app -w /app iron/node:dev npm install
 ## 2. Test it locally
 
 ```sh
-docker run --rm -it -p 8080:8080 -v "$PWD":/app -w /app iron/node npm start
+docker run --rm -it -p 8080:8080 -v "$PWD":/app -w /app iron/node node server.js
 ```
 
 Check localhost:8080 to ensure it's running.
