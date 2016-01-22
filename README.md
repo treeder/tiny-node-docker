@@ -1,9 +1,9 @@
 This is an example for how to build a teeny, tiny Docker image for your
 Node programs.
 
-This example is an web server that prints Hello World and ends up in a **4.7MB** Docker image.
+This example is an web server that prints Hello World and ends up in small Docker image:
 
-[![](https://badge.imagelayers.io/treeder/static-go:latest.svg)](https://imagelayers.io/?images=treeder/static-go:latest 'Get your own badge on imagelayers.io')
+[![](https://badge-imagelayers.iron.io/treeder/static-go:latest.svg)](https://imagelayers.iron.io/?images=treeder/static-go:latest 'Get your own badge on imagelayers.io')
 
 ## 1. Get dependencies
 
