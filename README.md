@@ -3,7 +3,7 @@ Node programs.
 
 This example is an web server that prints Hello World and ends up in small Docker image:
 
-[![](https://badge-imagelayers.iron.io/treeder/static-go:latest.svg)](https://imagelayers.iron.io/?images=treeder/static-go:latest 'Get your own badge on imagelayers.io')
+[![](https://badge-imagelayers.iron.io/treeder/tiny-node:latest.svg)](https://imagelayers.iron.io/?images=treeder/static-go:latest 'Get your own badge on imagelayers.io')
 
 ## 1. Get dependencies
 
